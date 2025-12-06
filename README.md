@@ -9,8 +9,8 @@
     "id": 1,                          
     "apartCode": "1615",             
     "slot": "Không được quyền đỗ",    
-    "selected": 63,                   => selected là Ô đã bốc (nếu = 0 thì là căn hộ này chưa bốc)
-    "date": "06-12-2025 06:38:15"     => date là Ghi lại log ngày giờ căn hộ bốc 
+    "selected": 63,                   
+    "date": "06-12-2025 06:38:15"   
   },
   {
     "id": 5,
