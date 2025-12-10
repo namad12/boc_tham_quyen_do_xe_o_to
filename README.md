@@ -44,3 +44,4 @@
 - Trường `khongDuocQuyenDo` => là trường lưu Tổng số phiếu **Không được quyền đỗ** (trường này không được để <=0)
 
 > Lưu ý: Tổng số phiếu của 4 quyền cộng lại phải bằng tổng căn hộ, nếu không thì code sẽ lỗi
+
